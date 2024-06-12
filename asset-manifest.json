@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/nenetflix-online-cinema/static/css/main.f2a980cb.css",
+    "main.js": "/nenetflix-online-cinema/static/js/main.7cf5437f.js",
+    "static/media/backround.png": "/nenetflix-online-cinema/static/media/backround.59b7e78558daf9fb568b.png",
+    "static/media/hall.jpg": "/nenetflix-online-cinema/static/media/hall.541ef6a105c0980e80eb.jpg",
+    "static/media/Roboto-Regular.ttf": "/nenetflix-online-cinema/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/logo-light2.svg": "/nenetflix-online-cinema/static/media/logo-light2.90b4effb147d957fa8f4047f9aa613a7.svg",
+    "static/media/logo2.svg": "/nenetflix-online-cinema/static/media/logo2.90b4effb147d957fa8f4047f9aa613a7.svg",
+    "static/media/no-favorites.svg": "/nenetflix-online-cinema/static/media/no-favorites.bca03b74866305d2a29d3069ce91b4d0.svg",
+    "static/media/settings-icon.svg": "/nenetflix-online-cinema/static/media/settings-icon.3534c8b6824d56d129fa9f20a273731b.svg",
+    "static/media/imdb-icon.svg": "/nenetflix-online-cinema/static/media/imdb-icon.81b5b92c82b98f43ac9676c0163ae985.svg",
+    "index.html": "/nenetflix-online-cinema/index.html",
+    "static/media/home-icon.svg": "/nenetflix-online-cinema/static/media/home-icon.2e46636a96a233b7b9f29ef5189c0c67.svg",
+    "static/media/trends-icon.svg": "/nenetflix-online-cinema/static/media/trends-icon.d989dfc97f483f1364d821182ae23098.svg",
+    "static/media/close-icon.svg": "/nenetflix-online-cinema/static/media/close-icon.303b7cbeb825ddab50ae83a7bdba2588.svg",
+    "static/media/favorites-icon.svg": "/nenetflix-online-cinema/static/media/favorites-icon.693e8898ef23de166fb502928ce8f283.svg",
+    "static/media/arrow.svg": "/nenetflix-online-cinema/static/media/arrow.53ad1932dea6a1e158412501527fb006.svg",
+    "main.f2a980cb.css.map": "/nenetflix-online-cinema/static/css/main.f2a980cb.css.map",
+    "main.7cf5437f.js.map": "/nenetflix-online-cinema/static/js/main.7cf5437f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a980cb.css",
+    "static/js/main.7cf5437f.js"
+  ]
+}
